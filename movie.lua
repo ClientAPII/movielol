@@ -11,7 +11,7 @@ end
 -- 3) Den Bildschirm konfigurieren
 monitor.setBackgroundColor(colors.black)
 monitor.setTextColor(colors.white)
-monitor.setTextScale(30)
+monitor.setTextScale(9)
 monitor.clear()
 
 -- 4) Terminal-Ausgaben auf den Monitor umleiten
